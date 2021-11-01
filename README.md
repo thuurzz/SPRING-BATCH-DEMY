@@ -1,2 +1,2 @@
-# SPRING-BATCH-DEMY
+# SPRING-BATCH-UDEMY
 Projeto do curso Spring Batch na Udemy
